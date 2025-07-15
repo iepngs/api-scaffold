@@ -1,0 +1,19 @@
+app:
+  port: "8080"
+mysql:
+  host: "localhost"
+  port: 3306
+  user: "root"
+  password: ""
+  database: "bmstock"
+redis:
+  addr: "localhost:6379"
+  password: ""
+  db: 0
+cloudflare:
+  access_key: "your_access_key"
+  secret_key: "your_secret_key"
+  account_id: "your_account_id"
+  bucket: "your_bucket"
+jwt:
+  secret: "your_jwt_secret"

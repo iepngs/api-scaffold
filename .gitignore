@@ -1,0 +1,5 @@
+.idea/
+bin/
+logs/
+config.yaml
+config.local.yaml
